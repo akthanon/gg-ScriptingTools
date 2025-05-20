@@ -1,0 +1,53 @@
+FATAL  :220924:2329:24.0 MODEL/update_coords: Obs time for IAGX ( 2018  68  0  0  0) too early for station.info start ( 2018  68 21  0  0)
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:24.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :220924:2329:25.0 AUTCLN/autcln: GAMIT.fatal exists: AUTCLN not executed
+
+
+
+
+FATAL  :221005:0019:22.0 MODEL/get_antpcv: Input antenna type MPREGP MP-1372W NONE (MPREGP MP-1372W NONE) not in ANTEX PCV file; site PP04 (Name antmod.dat)
+FATAL  :221005:0019:22.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :221005:0019:22.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :221005:0019:22.0 MODEL/model: GAMIT.fatal exists: MODEL not executed
+FATAL  :221005:0019:22.0 AUTCLN/autcln: GAMIT.fatal exists: AUTCLN not executed
+

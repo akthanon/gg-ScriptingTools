@@ -1,0 +1,5 @@
+stations=(cice azco mnzo meri ipaz msd1 mexi mty2 tamp mpr1 col2 tol2 mmx1 oax2 icam mmd1 unpm chet lpaz her2 culi cam2 cnc0 tgmx cn24 cn25 tnpj cn26 oxth oxec tnsj oxum oxmc oaxa oxgu oxlp tnnp oxpe tnnx oxtu tncy oxpl oxp2 tnat pino tnmq doar cpdp acap coyu caya uxal sg21 igua yaig uton tngf unip tnal pp02 posw pp05 pp03 pp04 popn pop1 pp01 tnmo zihp ucoe tnif tncn tncc tnmr faro teco pena tnmt crip tnmz puri tntm tncm tnct pzul tnms tnam ugeo ineg uagu tntb sa61 tncu yesx usmx rayn nam4 sa27 tnhm iagx tnba tsfx sa50 sa33 tnpp plcx pstx palx plpx pltx cic1 yumx corx ptex daex pjzx pb2y pb1y phjx ptax nayx nvlx quex guax ucoc ucom nvdo cefa pzul oxte ufxn tncs moit spig tnlc cecm mrra mxas uigf mpaa pin1 tnts tnza lpig unle cols uira tnsl ujur coob ujal utic unto unva cega utul utac itux slcr huat ihgo saby mtp1 icep itla uver tnmx uqro lnig tnpc inay ichi spmx icmx ichs idgo chih islp izac mezc dema mxs1 iher pjzc acyt imie cgig morr)
+time for i in {0..188..1}; do
+	echo ${stations[i]}
+	grep -n 'APPROX POSITION XYZ' */rinex/${stations[i]}*.*o
+done

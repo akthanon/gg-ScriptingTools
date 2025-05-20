@@ -1,0 +1,4 @@
+* Stabilisation list for example
+ stab_site clear
+ stab_site pie1 drao jplm gode monp albh will vndp gold mdo1 algo gol2 nano nlib dubo holb prds amc2 brmu flin
+#sh_plotvel -ps exme -f globk_vel.org -R240/275/-10/35 -factor 0.5 -arrow_value 10 -page L

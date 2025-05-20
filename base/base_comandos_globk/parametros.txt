@@ -1,0 +1,14 @@
+#AÑO 1
+2015-001
+#AÑO 2
+2017-365
+#NUMERO DE ESTACIONES REFERENCIA
+15
+#PARAMETRO DE SELECCION DE ESTACIONES DE REFERENCIA
+tods
+#MEJORES ESTACIONES
+pie1 drao jplm gode monp albh will vndp gold mdo1 algo gol2 nano nlib dubo holb prds amc2 brmu flin 
+#MODELO
+itrf14_comb_na12.apr
+#ESTACIONES A ELIMINAR(MAX 22)use_site -nayx 
+
