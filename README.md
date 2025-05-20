@@ -1,2 +1,42 @@
 # gg-ScriptingTools
 Gamit Globk Script
+
+TEQC
+(en construcción)pretratamiento.sh
+
+# 1
+analisis_calidad.sh > graficas | resultados_calidad
+
+(1)(opcional)combinar_analisis_calidad.sh
+
+(2)(opcional)analisis_calidad_easy.sh
+
+# 2
+analizar_referencia.sh > resultados_referencia
+# 3
+(IMPORTANTE)eliminar_estaciones.sh (IMPORTANTE > Ejecutar desde aqui cada vez que se agregue un año nuevo)
+
+# 5
+(copiar todo a la carpeta de años)
+iniciar.sh
+# 6
+ejecutar_gamit_1:13.sh
+# 7
+finalizar.sh
+# 8
+(regresar a la carpeta de comandos)
+
+analizar_gamit.sh > graficas_gamit | resultados_gamit
+
+# 9
+GLOBK
+procesar_globk.sh
+# 10
+analizar_globk.sh
+(opcional)(en la carpeta de globk)globk_ejecutar.sh
+
+(opcional)(en la carpeta de resultados de globk)comparar.sh
+# 11
+(opcional)(analisis con tsview)
+
+(opcional)(Reprocesar con los resultados de tsview)
