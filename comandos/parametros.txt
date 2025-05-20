@@ -1,0 +1,29 @@
+#AÑO 1
+1993
+#AÑO 2
+2019
+#MEJORES REFERENCIA
+20
+#MEJORES ESTACIONES
+120
+#CARPETA GAMIT
+Proyecto_Tesis_1
+#PESO
+0.5
+#CANTIDAD MINIMA DE AÑOS
+0.5
+#CARPETA GLOBK
+Comprimido_Proyecto_Tesis_1
+#INTERVALOS
+3
+#Observaciones por ciclo
+100
+#Porcentaje de Observaciones
+80
+#Graficar (Mas rapido) 1: SI 0:NO
+1
+#Formula (1 = Multiplicacion 2 = Pitagoras)
+1
+#Numero de redes
+2
+#FIN DEL DOCUMENTO

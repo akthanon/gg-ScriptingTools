@@ -1,0 +1,30 @@
+#AÑO 1
+1993-001
+#AÑO 2
+2019-365
+#NUMERO DE ESTACIONES REFERENCIA
+5 10 15 20
+#PARAMETRO DE SELECCION DE ESTACIONES DE REFERENCIA
+tods brek dist wrms dias cali
+#MEJORES ESTACIONES
+gol2 nlib pie1 amc2 monp gold gode nano jplm will drao dubo prds vndp algo brmu albh flin holb mdo1 
+nlib monp gode nano jplm will drao dubo prds algo brmu pie1 amc2 gold vndp albh holb mdo1 gol2 flin 
+mdo1 pie1 monp amc2 jplm gol2 gold vndp nlib gode dubo prds drao albh algo nano flin will holb brmu 
+amc2 will gode pie1 nano monp drao nlib prds gol2 albh brmu holb flin mdo1 dubo gold jplm algo vndp 
+will nano drao prds gold gol2 algo amc2 pie1 albh monp flin holb dubo jplm gode nlib vndp brmu mdo1 
+gol2 nlib gode monp nano amc2 mdo1 gold pie1 dubo flin brmu drao algo prds will albh jplm vndp holb 
+#MODELO
+itrf00.apr itrf00_noam.apr itrf00_pcfc.apr itrf05.apr itrf05_noam.apr itrf05_pcfc.apr itrf08.apr itrf08_comb_na12.apr itrf08_comb_noam.apr itrf08_comb_pcfc.apr itrf08_noam.apr itrf08_pcfc.apr itrf14.apr itrf14_comb_na12.apr itrf14_comb_pcfc.apr itrf14_noam08.apr itrf14_pcfc08.apr
+#NUMERO DE ESTACIONES REFERENCIA BASE
+15
+#PARAMETRO DE SELECCION DE ESTACIONES DE REFERENCIA BASE
+tods
+#MEJORES ESTACIONES BASE
+gol2 nlib pie1 amc2 monp gold gode nano jplm will drao dubo prds vndp algo brmu albh flin holb mdo1
+#MODELO BASE
+itrf14_na12.apr itrf14_comb_noam.apr
+#AÑO 1 BASE
+1993-001
+#AÑO 2 BASE
+2019-365
+#ESTACIONES A ELIMINAR(MAX 22)use_site -nayx 

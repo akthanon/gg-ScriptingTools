@@ -1,0 +1,17 @@
+MEJORES ESTACIONES EN GENERAL
+gol2 nlib pie1 amc2 monp gold gode nano jplm will drao dubo prds vndp algo brmu albh flin holb mdo1 
+
+MEJORES BREAKS
+nlib monp gode nano jplm will drao dubo prds algo brmu pie1 amc2 gold vndp albh holb mdo1 gol2 flin 
+
+MEJORES DISTANCIAS
+mdo1 pie1 monp amc2 jplm gol2 gold vndp nlib gode dubo prds drao albh algo nano flin will holb brmu 
+
+MEJORES WRMS
+amc2 will gode pie1 nano monp drao nlib prds gol2 albh brmu holb flin mdo1 dubo gold jplm algo vndp 
+
+MEJORES DIAS DE DATOS
+will nano drao prds gold gol2 algo amc2 pie1 albh monp flin holb dubo jplm gode nlib vndp brmu mdo1 
+
+MEJORES CALIDADES
+gol2 nlib gode monp nano amc2 mdo1 gold pie1 dubo flin brmu drao algo prds will albh jplm vndp holb 
